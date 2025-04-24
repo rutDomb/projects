@@ -1,0 +1,4 @@
+23/03/2025 14:32:06	Dal.ProductImplementation	Delete	Start
+23/03/2025 14:32:06	Dal.ProductImplementation	Read	Start
+23/03/2025 14:32:06	Dal.ProductImplementation	Read	End
+23/03/2025 14:32:06	Program	Delete	The product does not exist

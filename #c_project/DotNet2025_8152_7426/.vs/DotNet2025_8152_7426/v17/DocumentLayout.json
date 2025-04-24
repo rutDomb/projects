@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB9FA03-3E58-4C10-8C5C-F5706DC8D85C}|UI\\UI.csproj|g:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\ui\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB9FA03-3E58-4C10-8C5C-F5706DC8D85C}|UI\\UI.csproj|solutionrelative:ui\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB9FA03-3E58-4C10-8C5C-F5706DC8D85C}|UI\\UI.csproj|G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\ui\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DB9FA03-3E58-4C10-8C5C-F5706DC8D85C}|UI\\UI.csproj|solutionrelative:ui\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC84DC9-937F-4807-9EE1-CF8161F0E02B}|BL\\BL.csproj|g:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC84DC9-937F-4807-9EE1-CF8161F0E02B}|BL\\BL.csproj|solutionrelative:bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductInOrder.cs",
+              "DocumentMoniker": "G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\BL\\BO\\ProductInOrder.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\ProductInOrder.cs",
+              "ToolTip": "G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\BL\\BO\\ProductInOrder.cs",
+              "RelativeToolTip": "BL\\BO\\ProductInOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:25:55.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\UI\\Order.cs",
+              "RelativeDocumentMoniker": "UI\\Order.cs",
+              "ToolTip": "G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\UI\\Order.cs",
+              "RelativeToolTip": "UI\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:47:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs [Design]",
+              "DocumentMoniker": "G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\UI\\Order.cs",
+              "RelativeDocumentMoniker": "UI\\Order.cs",
+              "ToolTip": "G:\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\#c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\UI\\Order.cs [Design]",
+              "RelativeToolTip": "UI\\Order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:45:46.636Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

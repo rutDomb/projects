@@ -1,0 +1,4 @@
+20/03/2025 15:48:21	Dal.ProductImplementation	ReadAll	Start
+20/03/2025 15:48:21	Dal.ProductImplementation	ReadAll	End
+20/03/2025 15:48:41	Dal.SaleImplementation	ReadAll	Start
+20/03/2025 15:48:41	Dal.SaleImplementation	ReadAll	End

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient>
+  <Client>
+    <id>10</id>
+    <userName>כהן חני</userName>
+    <address>רבי טרפון 23</address>
+    <phone>524876354</phone>
+  </Client>
+</ArrayOfClient>

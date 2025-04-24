@@ -1,0 +1,6 @@
+12/03/2025 21:06:29	Dal.SaleImplementation	Create	Start
+12/03/2025 21:06:29	Program	AddSale	There was an error generating the XML document.
+12/03/2025 21:06:41	Dal.SaleImplementation	ReadAll	Start
+12/03/2025 21:06:41	Dal.SaleImplementation	ReadAll	End
+12/03/2025 21:06:49	Dal.ProductImplementation	ReadAll	Start
+12/03/2025 21:06:49	Dal.ProductImplementation	ReadAll	End

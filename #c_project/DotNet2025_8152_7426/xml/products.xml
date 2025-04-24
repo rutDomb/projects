@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <_code>1055</_code>
+    <_name>מוט עמוד שידרה</_name>
+    <_category>מכשירים</_category>
+    <_price>1000</_price>
+    <_QuantityInStock>20</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1053</_code>
+    <_name>נעלי עור לילדים פומה</_name>
+    <_category>נעליים</_category>
+    <_price>350</_price>
+    <_QuantityInStock>230</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1044</_code>
+    <_name>גרבי חצי רגל-אדידאס</_name>
+    <_category>גרביים</_category>
+    <_price>60</_price>
+    <_QuantityInStock>40</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1052</_code>
+    <_name>מגפוני סניקרס לילדים</_name>
+    <_category>נעליים</_category>
+    <_price>239</_price>
+    <_QuantityInStock>147</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1043</_code>
+    <_name>נעלי פומה לבנות לנשים</_name>
+    <_category>נעליים</_category>
+    <_price>450</_price>
+    <_QuantityInStock>22</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1051</_code>
+    <_name>תיק ספורט</_name>
+    <_category>תיקים</_category>
+    <_price>125</_price>
+    <_QuantityInStock>297</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1057</_code>
+    <_name>נעלי ניק לנשים</_name>
+    <_category>נעליים</_category>
+    <_price>356</_price>
+    <_QuantityInStock>18</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1056</_code>
+    <_name>מכנסי אדידס ספורט</_name>
+    <_category>בגדים</_category>
+    <_price>320</_price>
+    <_QuantityInStock>120</_QuantityInStock>
+    <_image />
+  </Product>
+</ArrayOfProduct>
