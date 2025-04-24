@@ -1,0 +1,61 @@
+/* עיצוב כללי */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* רקע תכלת */
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text-align: center;
+}
+
+/* כותרת ראשית */
+h1 {
+    color: #007acc; /* כחול כהה */
+    margin-top: 20px;
+    font-size: 2.5rem;
+}
+
+/* טפסים */
+form {
+    margin: 20px auto;
+    padding: 15px;
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* טבלה */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #007acc; /* כחול כהה */
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* קישורים */
+a {
+    color: #007acc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}

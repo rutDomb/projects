@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN</title>
+    <link rel="stylesheet" href="css/login.css" />
+</head>
+<body>
+    <h1>login</h1>
+    <label for="">enter name:</label>
+    <input type="text" id="name"><br><br>
+    <label for="">enter password:</label>
+    <input type="password" id="password"><br><br>
+    <button type="submit" id="bthSubmit">send</button>
+    <button id="postmanButton">Open Postman</button>
+
+    
+    <script>
+        document.getElementById("postmanButton").addEventListener("click", function() {
+            const postmanURI = "postman://collection/40310174-3aac6243-1943-408a-aa86-f8368f4fc34d";
+            window.open(postmanURI, "_blank");
+        });
+    </script>
+    <script src="./js/login.js"></script>
+</body>
+</html>

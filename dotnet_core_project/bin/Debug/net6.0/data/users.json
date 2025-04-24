@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "Username": "ruti",
+        "Password": "455542",
+        "isAdmit": false
+    },
+    {
+        "id": 2,
+        "Username": "brachi",
+        "Password": "185426@",
+        "isAdmit": true
+    },
+    {
+        "id": 3,
+        "Username": "miri",
+        "Password": "45128",
+        "isAdmit": false
+    },
+    {
+        "id": 4,
+        "Username": "sari",
+        "Password": "745215",
+        "isAdmit": false
+    }
+]

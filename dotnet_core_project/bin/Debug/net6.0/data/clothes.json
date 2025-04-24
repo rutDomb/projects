@@ -1,0 +1,57 @@
+[{
+        "UserId": 10,
+        "Id": 1,
+        "Name": "חולצה מכופתרת",
+        "price": 45,
+        "Iswool": true
+    },
+    {
+        "UserId": 11,
+        "Id": 2,
+        "Name": "גרביים קצרות",
+        "price": 20,
+        "Iswool": true
+    },
+    {
+        "UserId": 12,
+        "Id": 3,
+        "Name": "מכנס שחור",
+        "price": 150,
+        "Iswool": true
+    },
+    {
+        "UserId": 13,
+        "Id": 4,
+        "Name": "כובע צמר לתינוק",
+        "price": 85,
+        "Iswool": true
+    },
+    {
+        "UserId": 10,
+        "Id": 5,
+        "Name": "שמלה פרחונית לנערה",
+        "price": 45,
+        "Iswool": true
+    },
+    {
+        "UserId": 11,
+        "Id": 6,
+        "Name": "גרביי לילה מחממות",
+        "price": 20,
+        "Iswool": true
+    },
+    {
+        "UserId": 12,
+        "Id": 7,
+        "Name": "מכנס טאיץ לבנות",
+        "price": 150,
+        "Iswool": true
+    },
+    {
+        "UserId": 13,
+        "Id": 8,
+        "Name": "כובע פונפון",
+        "price": 85,
+        "Iswool": true
+    }
+]

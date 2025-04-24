@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cloth CRUD</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+
+<body>
+    <div>
+        <p id="userName"></p>
+        <button type="button" onclick="editUser()" id="editUser">עריכה</button>
+        <div id="editUserFrom">
+            <h3>Edit</h3>
+            <form action="javascript:void(0);" onsubmit="updateUser()">
+                <input type="hidden" id="edit-id-user">
+                <input type="text" id="edit-name-user">
+                <input type="text" id="edit-password-user">
+
+                <input type="submit" value="Save">
+                <a onclick="closeInput('editUserFrom')" aria-label="Close">&#10006;</a>
+            </form>
+        </div>
+    </div>
+    <h1>Cloth CRUD</h1>
+    <h3>Add</h3>
+    <form action="javascript:void(0);" method="POST" id="form">
+        <input type="text" id="add-name" placeholder="New cloth">
+        <input type="button" value="Add" onclick="addItem()" id="addC">
+    </form>
+
+    <div id="clothForm">
+        <h3>Edit</h3>
+        <form action="javascript:void(0);" onsubmit="updateItem()">
+            <input type="hidden" id="edit-id">
+            <input type="checkbox" id="edit-iswool">
+            <input type="text" id="edit-name">
+            <input type="submit" value="Save">
+            <a onclick="closeInput('clothForm')" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>isToWinter?</th>
+            <th>Name</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tbody id="clothes"></tbody>
+    </table>
+
+    <a href="./userList.html" id="listUsers">לרשימת המשתמשים</a>
+
+    <script src="./js/site.js"></script>
+    <script type="text/javascript">
+        if (localStorage.getItem("token") == null) {
+            sessionStorage.setItem("not", "not exist token");
+            location.href = "./login.html";
+        }
+        else {
+            getItems();
+        }
+
+        
+    </script>
+</body>
+
+</html>

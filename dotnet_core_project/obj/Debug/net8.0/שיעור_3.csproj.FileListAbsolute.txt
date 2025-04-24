@@ -1,0 +1,610 @@
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\שיעור_3.exe
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\שיעור_3.deps.json
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\refint\שיעור_3.dll
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+C:\Users\user1\Desktop\שיעורי בית\core\שיעור_3\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\שיעור 3\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\שיעור 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\שיעור 4\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\שיעור 5\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\שיעור 5\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\שיעור 7\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\data\clothes.json
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\data\users.json
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\שיעור 7\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\appsettings.json
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\data\clothes.json
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\data\users.json
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.exe
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.deps.json
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.pdb
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\דומב רות\פרויקט-dotnet\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.dll
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\refint\שיעור_3.dll
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.pdb
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+Z:\B\דומב רות\פרויקט-dotnet\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\data\clothes.json
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\data\users.json
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\פרויקט-dotnet\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\פרויקט-dotnet\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\data\clothes.json
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\data\users.json
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\-פרויקט-dotnet\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\data\clothes.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\data\users.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\2-פרויקט-dotnet\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\data\clothes.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\data\users.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\‏פרויקט-dotnet - 3\obj\Debug\net8.0\שיעור_3.sourcelink.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\data\clothes.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\data\users.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.sourcelink.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet - 3 - עותק\obj\Debug\net8.0\ref\שיעור_3.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\appsettings.Development.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\appsettings.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\data\clothes.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\data\users.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\שיעור_3.exe
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\שיעור_3.deps.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.sourcelink.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\staticwebassets.build.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\staticwebassets.development.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\staticwebassets.pack.json
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\refint\שיעור_3.dll
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.pdb
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+D:\שיעורי בית\core\‏‏‏פרויקט-dotnet-סופיי\obj\Debug\net8.0\ref\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\data\clothes.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\data\users.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\שיעור_3.exe
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\שיעור_3.deps.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.sourcelink.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\refint\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+C:\Users\user1\Desktop\github\dotnet-project\dotnet_project\obj\Debug\net8.0\ref\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\data\clothes.json
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\data\users.json
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\שיעור_3.exe
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\שיעור_3.deps.json
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.sourcelink.json
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\refint\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\ref\שיעור_3.dll
+C:\Users\user1\Desktop\github\dotnet_project\bin\Debug\net8.0\שיעור_3.staticwebassets.endpoints.json
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user1\Desktop\github\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\data\clothes.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\שיעור_3.staticwebassets.endpoints.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\data\users.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\שיעור_3.staticwebassets.runtime.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\שיעור_3.exe
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\שיעור_3.deps.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\שיעור_3.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.sourcelink.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\scopedcss\bundle\שיעור_3.styles.css
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור_3.props
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור_3.props
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור_3.props
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.csproj.Up2Date
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\refint\שיעור_3.dll
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.pdb
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\שיעור_3.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקטים\dotnet_project\obj\Debug\net8.0\ref\שיעור_3.dll

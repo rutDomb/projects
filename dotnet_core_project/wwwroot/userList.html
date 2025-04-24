@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Users CRUD</title>
+    <link rel="stylesheet" href="css/userList.css" />
+</head>
+
+<body>
+    <h1>Users CRUD</h1>
+    <h3>Add</h3>
+    <form action="javascript:void(0);" method="POST" id="form">
+        <input type="text" id="add-name" placeholder="New user">
+        <input type="text" id="add-password" placeholder="New password">
+        <input type="button" value="Add" onclick="addUser()" id="addC">
+    </form>
+   
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Password</th>
+            <th></th>
+        </tr>
+      <tbody id="users"></tbody>
+    </table>
+
+    <a href="./index.html">למוצרים שלי</a>
+    <script src="js/userList.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getUsers();
+    </script>
+</body>
+
+</html>
