@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PERFECT</title>
+    <link rel="stylesheet" href="./allCtegory.css">
+    <link rel="stylesheet" href="./general.css">
+    <link rel="icon" href="/pictures/לוגו שחור.jpg">
+</head>
+
+<body>
+    <header>
+        <div id="basketDiv">
+            <h4><img src="./pictures/איקס שחור.png" alt="" id="basketX"><span id="basketTitle">עגלת קניות</span></h4>
+            <h3 id="basketEmpty"></h3>
+            <div id="basketProducts"></div>
+            <button id="forPayment">לתשלום <span id="countPay"></span></button>
+        </div>
+        <div id="firstLine">
+            <h4 id="text">שלום <span id="userText"></span></h4>
+            <div id="one">
+                <div id="icon">
+                    <a><img src="/pictures/עגלה.png" alt="" id="basket" class="Picon"></a>
+                    <a><img src="/pictures/חיפוש.png" alt="" id="Search" class="Picon"></a>
+                    <a href="privateArea.html"><img src="/pictures/איש.png" alt="" id="privateArea" class="Picon"></a>
+                </div>
+                <a href="./home.html"><img src="/pictures/לוגו.webp" alt="" class="category"></a>
+                <div class="burger1">
+                    <img src="/pictures/בורגר.png" alt="" class="burger1">
+                </div>
+            </div>
+            <div id="two">
+                <div id="burger">
+                    <nav>
+                        <a class="category">גאדג'טים</a>
+                        <a class="category">גברים</a>
+                        <a class="category">נשים</a>
+                        <a class="category">נערות</a>
+                        <a class="category">תינוקות</a>
+                        <a class="category">לבית</a>
+                        <a class="category">תיקים</a>
+                        <a class="category">חדש</a>
+                        <!-- <a>מבצעים</a>
+                        <a href="./giftCard.html">שובר מתנה</a> -->
+                        <a class="category">כל המוצרים</a>
+                    </nav>
+                </div>
+            </div>
+            <div id="inputSearch">
+                <div id="Psearch" class="iconSearch"></div>
+                <div id="X" class="iconSearch"></div>
+            </div>
+        </div>
+        <div id="secondLine"></div>
+        <div id="countProduct">
+            <div id="countProductText">
+                <h3>מוצרים</h3>
+                <h3 id="arrLeanth"></h3>
+                
+            </div>
+
+
+        </div>
+    </header>
+    <div id="overlay" class="overlay"></div>
+    <section>
+        <div id="allProducts"></div>
+    </section>
+    <div id="degrees">
+        <div id="degrees1">
+            <img src="/pictures/איקון מתנה.png" alt="">
+            <h3>שרותי ייבוא לעסקים<br><span>צרו קשר לפרטים נופים</span></h3>
+        </div>
+        <div id="degrees2">
+            <img src="/pictures/איקון מתנה.png" alt="">
+            <h3>איכות ואריזה<br><span>המוצרים מגיעים באריזה מכובדת</span></h3>
+        </div>
+        <div id="degrees3">
+            <img src="/pictures/איקון מתנה.png" alt="">
+            <h3>מחירים סיטונאים<br><span>לקבוצות ולוועדים</span></h3>
+        </div>
+        <div id="degrees4">
+            <img src="/pictures/איקון מתנה.png" alt="">
+            <h3>ייצור וייבוא מקורי<br><span>מוצרים בלעדיים</span></h3>
+        </div>
+    </div>
+    </section>
+    <footer>
+        <div id="navFooter">
+            <div id="clubFooter">
+                <h4>מועדון לקוחות <br><br>לקבלת עדכונים על מוצרים חדשים, מבצעים <br>והטבות בלעדיות</h4>
+                <h3 id="afterenrollmentFooter">נרשמת כמנוי לידיעון שלנו</h3>
+                <input type="email" placeholder="אימייל" id="EmailFooter" required><br>
+                <button type="submit" id="enrollmentfooter">הירשם כמנוי</button>
+            </div>
+            <div id="MoreInfo">
+                <h4>מידע נוסף</h4>
+                <a href="">הצהרת נגישות</a><br>
+                <a href="">יצירת קשר</a>
+            </div>
+            <div>
+                <h4>תנאי שימוש</h4>
+                <a href="">תקנון האתר</a><br>
+                <a href="">החזרות וביטולים</a><br>
+                <a href="">מדיניות פרטיות</a>
+            </div>
+            <div>
+                <img src="/pictures/לוגו.webp" alt="">
+            </div>
+        </div>
+    </footer>
+    <script src="./jquery-3.2.1.js"></script>
+    <script src="/Data/store.json"></script>
+    <script src="./general.js"></script>
+    <script src="./allCtegory.js"></script>
+</body>
+
+</html>

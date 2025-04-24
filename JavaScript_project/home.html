@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PERFECT</title>
+    <link rel="stylesheet" href="./home.css">
+    <link rel="stylesheet" href="./general.css">
+    <link rel="icon" href="/pictures/לוגו שחור.jpg">
+
+
+</head>
+
+<body>
+    <header>
+        <div id="basketDiv">
+            <h4><img src="./pictures/איקס שחור.png" alt="" id="basketX"><span id="basketTitle">עגלת קניות</span></h4>
+            <h3 id="basketEmpty"></h3>
+            <div id="basketProducts"></div>
+            <button id="forPayment">לתשלום <span id="countPay"></span></button>
+        </div>
+        <div id="firstLine" class="firstLine">
+            <h4 id="text">שלום <span id="userText"></span></h4>
+            <div id="one">
+                <div id="icon">
+                    <a><img src="/pictures/עגלה.png" alt="" id="basket" class="Picon"></a>
+                    <a><img src="/pictures/חיפוש.png" alt="" id="Search" class="Picon"></a>
+                    <a href="./privateArea.html"><img src="/pictures/איש.png" alt="" id="privateArea" class="Picon"></a>
+                </div>
+                <a href="./home.html"><img src="/pictures/לוגו.webp" alt="" class="category"></a>
+                <div class="burger1">
+                    <img src="/pictures/בורגר.png" alt="" class="burger1">
+                </div>
+            </div>
+            <div id="two">
+                <div id="burger">
+                    <nav>
+                        <a class="category">גאדג'טים</a>
+                        <a class="category">גברים</a>
+                        <a class="category">נשים</a>
+                        <a class="category">נערות</a>
+                        <a class="category">תינוקות</a>
+                        <a class="category">לבית</a>
+                        <a class="category">תיקים</a>
+                        <a class="category">חדש</a>
+                        <!-- <a>מבצעים</a> -->
+                        <!-- <a href="./giftCard.html">שובר מתנה</a> -->
+                        <a class="category">כל המוצרים</a>
+                    </nav>
+                </div>
+            </div>
+            <div id="inputSearch">
+                <div id="Psearch" class="iconSearch"></div>
+                <div id="X" class="iconSearch"></div>
+            </div>
+        </div>
+        <img src="/pictures/תמונה ראשית-חדש.jpg" alt="" id="firstPicture">
+        <div id="secondLine">
+            <h3>מחירים מיוחדים לסיטונאים וועדים וקבוצות</h3>
+            <h1>THE PERFECT GIFT</h1>
+            <a href="#section"><img src="pictures/חץ למטה.png" alt="" id="arrow"></a>
+        </div>
+    </header>
+    <div id="overlay" class="overlay"></div>
+    <div id="popUp" class="popUp">
+        <img src="./pictures/איקס שחור.png" alt="" id="formX">
+        <form action="login">
+            <h4>login</h4><br><br>
+            <label for="userName" id="userNameIput">שם משתמש</label>
+            <input type="text" name="userName" id="userName" class="login" required>
+            <label for="password" id="passwordText">סיסמה</label>
+            <input type="password" name="password" id="password" class="login" required><br>
+            <h9 id="error"></h9><br>
+            <button type="submit" class="connect" id="enter">כניסה</button>
+            <button type="submit" class="connect" id="newAccount">ליצירת חשבון</button>
+        </form>
+    </div>
+    <section id="section">
+        <div id="title">
+            <br><br>
+            <button>
+                <h9 id="title2">טרנדים</h9>
+            </button>
+            <button>
+                <h9 id="title1" class="title1">חדש באתר</h9>
+            </button>
+            <div id="homeProduct">
+                <div id="allProducts"></div>
+                <button><img src="/pictures/חץ שמאלה.png" alt="" id="leftArrow"></button>
+                <button><img src="/pictures/‏‏חץ ימין.png" alt="" id="rightArrow"></button>
+            </div>
+        </div>
+        <div id="images1">
+            <div id="Details">
+            </div><br><br><br><br><br>
+            <a id="more" class="category">צפייה בעוד</a>
+        </div><br><br><br><br>
+        <div id="link">
+            <a class="category">גברים</a>
+            <a class="category">נשים</a>
+            <a class="category">תינוקות</a>
+            <a class="category">גאדג'טים</a>
+            <a class="category">תיקים</a>
+            <a class="category">נערות</a>
+            <a class="category">לבית</a>
+            <a class="category">אורגנית לתכשיטים</a>
+            <a class="category">מתנות לחורף</a>
+        </div>
+        <div id="images2">
+            <a><img src="/pictures/גברים2.jpg" alt=""></a>
+            <a><img src="/pictures/אישה.jpg" alt=""></a>
+            <a><img src="/pictures/תינוקות2.webp" alt=""></a>
+            <a><img src="/pictures/תיקים2.webp" alt=""></a>
+            <a><img src="/pictures/נשים2.webp" alt=""></a>
+            <a><img src="/pictures/נערות2.webp" alt=""></a>
+            <a><img src="/pictures/לבית2.webp" alt=""></a>
+            <a><img src="/pictures/אורגנית לתכשיטים.webp" alt=""></a>
+            <a><img src="/pictures/מתנות לחורף.webp" alt=""></a>
+        </div>
+        <div id="setProducts">
+            <img src="/pictures/תמונה.webp" alt="" id="set">
+            <a href="./product.html?productCode=116" id="imgProduct"><img src="pictures/מצלמה עמוד הבית.jpg" alt=""></a>
+            <a href="./product.html?productCode=116" id="textSet">דפיוזר חדשני בעיצוב מצלמה<br>תאורה צבעונית+<br>₪
+                180.00</a>
+            <a href="./product.html?productCode=116" id="ShowProduct">הצג מוצר</a>
+            <div id="smallButtom">
+                <button id="circle1">.</button>
+                <button id="circle2">.</button>
+                <button id="circle3">.</button>
+            </div>
+        </div>
+        <div id="about">
+            <div id="aboutText">
+                <h4>PERFECT ACCESSORIES</h4>
+                <h2>קצת עלינו</h2>
+                <p>הפריטים בפרפקט עוצבו כולם מתוך אהבה והשקעה אין סופית. החל מבחירת החומרים<br>
+                    והצבעים ועד לטקסטים הנלווים, אריזות המתנה והכרטיסים הייחודיים שמצטרפים אליהן.<br>
+                    הקולקציות מקוריות ומושקעות ולא תוכלו למצוא אותן בשום מקום אחר.<br><br>
+                    לכל פריט של ״פרפקט״ נלווה ערך רגשי. יש מאחוריו רגשות וסיפור שלם. בין אם תבחרו <br>
+                    בתיק, תכשיט, סט לתינוק או כל דבר אחר, אתם תתרגשו להחזיק את המוצר שלנו ביד,<br>
+                    ויותר מזה- תתרגשו להעניק אותו לאנשים שאתם אוהבים.<br><br>
+                    אנחנו משקיעים ושואפים ליצור פריטים ייחודיים שמרחיבים את הלב, ויוצרים חוויה וענין <br>
+                    מעבר לשימוש הרגיל במוצר. ההדים שאנחנו מקבלים למוצרי פרפקט שנרכשים כמתנות <br>
+                    מוכיחים לנו עד כמה אנשים מוקירים ומעריכים את הרגש וההשקעה הנלווים לכל מוצר <br>
+                    שלנו.</p>
+            </div>
+            <img src="/pictures/קצת עלינו.webp" alt="" id="aboutImg">
+        </div>
+        <div id="club">
+            <h4 id="firstTitle">הישארו מעודכנים</h4>
+            <h2>מועדון לקוחות</h2>
+            <h4>לקבלת עדכונים על מוצרים חדשים, מבצעים והטבות בלעדיות</h4>
+            <h3 id="afterenrollment">נרשמת כמנוי לידיעון שלנו</h3>
+            <button type="submit" id="enrollment">הרשמה</button>
+            <input type="email" placeholder="אימייל" id="Email" required>
+        </div>
+        <div id="degrees">
+            <div id="degrees1">
+                <img src="/pictures/איקון מתנה.png" alt="">
+                <h3>שרותי ייבוא לעסקים<br><span>צרו קשר לפרטים נופים</span></h3>
+            </div>
+            <div id="degrees2">
+                <img src="/pictures/איקון מתנה.png" alt="">
+                <h3>איכות ואריזה<br><span>המוצרים מגיעים באריזה מכובדת</span></h3>
+            </div>
+            <div id="degrees3">
+                <img src="/pictures/איקון מתנה.png" alt="">
+                <h3>מחירים סיטונאים<br><span>לקבוצות ולוועדים</span></h3>
+            </div>
+            <div id="degrees4">
+                <img src="/pictures/איקון מתנה.png" alt="">
+                <h3>ייצור וייבוא מקורי<br><span>מוצרים בלעדיים</span></h3>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div id="navFooter">
+            <div id="clubFooter">
+                <h4>מועדון לקוחות <br><br>לקבלת עדכונים על מוצרים חדשים, מבצעים <br>והטבות בלעדיות</h4>
+                <h3 id="afterenrollmentFooter">נרשמת כמנוי לידיעון שלנו</h3>
+                <input type="email" placeholder="אימייל" id="EmailFooter" required><br>
+                <button type="submit" id="enrollmentfooter">הירשם כמנוי</button>
+            </div>
+            <div id="MoreInfo">
+                <h4>מידע נוסף</h4>
+                <a href="">הצהרת נגישות</a><br>
+                <a href="">יצירת קשר</a>
+            </div>
+            <div>
+                <h4>תנאי שימוש</h4>
+                <a href="">תקנון האתר</a><br>
+                <a href="">החזרות וביטולים</a><br>
+                <a href="">מדיניות פרטיות</a>
+            </div>
+            <div>
+                <img src="/pictures/לוגו.webp" alt="">
+            </div>
+        </div>
+        
+    </footer>
+
+    <script src="./jquery-3.2.1.js"></script>
+    <script src="/Data/store.json"></script>
+    <script src="./general.js"></script>
+    <script src="./home.js"></script>
+</body>
+
+</html>
