@@ -19,11 +19,12 @@ internal class OrderImplementation : IOrder
                  {                 
                      order.ListProductInOrder.Remove(p);
                      p.Quantity += quantity;
+                     p.TotalPrice = 0;
                      order.ListProductInOrder.Add(p);
                  }
                  else
-                 {
-                      throw new BO.BlNotEnoughInStock("אזל מהמלאי");
+                 {     
+                      throw new BO.BlNotEnoughInStock("אין מספיק במלאי");
                  }
             }
             else
@@ -35,7 +36,7 @@ internal class OrderImplementation : IOrder
                 }
                 else
                 {
-                    throw new BO.BlNotEnoughInStock("אזל מהמלאי");
+                    throw new BO.BlNotEnoughInStock("אין מספיק במלאי");
                 }
             }
             SearchSaleForProduct(p,order.IsPreferredClient);

@@ -54,4 +54,13 @@
     <_dateStart>2025-04-21T23:28:41.492</_dateStart>
     <_dateFinifh>2025-04-29T23:28:41.49</_dateFinifh>
   </Sale>
+  <Sale>
+    <_id>216</_id>
+    <_code>1044</_code>
+    <_amountForSale>2</_amountForSale>
+    <_priceForSale>60</_priceForSale>
+    <_isForEveryone>false</_isForEveryone>
+    <_dateStart>2025-04-23T18:48:39.397</_dateStart>
+    <_dateFinifh>2025-04-29T18:48:39.395</_dateFinifh>
+  </Sale>
 </ArrayOfSale>

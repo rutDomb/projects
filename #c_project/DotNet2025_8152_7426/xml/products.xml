@@ -5,7 +5,7 @@
     <_name>מוט עמוד שידרה</_name>
     <_category>מכשירים</_category>
     <_price>1000</_price>
-    <_QuantityInStock>20</_QuantityInStock>
+    <_QuantityInStock>2</_QuantityInStock>
     <_image />
   </Product>
   <Product>
@@ -14,14 +14,6 @@
     <_category>נעליים</_category>
     <_price>350</_price>
     <_QuantityInStock>230</_QuantityInStock>
-    <_image />
-  </Product>
-  <Product>
-    <_code>1044</_code>
-    <_name>גרבי חצי רגל-אדידאס</_name>
-    <_category>גרביים</_category>
-    <_price>60</_price>
-    <_QuantityInStock>40</_QuantityInStock>
     <_image />
   </Product>
   <Product>
@@ -62,6 +54,14 @@
     <_category>בגדים</_category>
     <_price>320</_price>
     <_QuantityInStock>120</_QuantityInStock>
+    <_image />
+  </Product>
+  <Product>
+    <_code>1044</_code>
+    <_name>גרבי חצי רגל אדידס</_name>
+    <_category>גרביים</_category>
+    <_price>40</_price>
+    <_QuantityInStock>197</_QuantityInStock>
     <_image />
   </Product>
 </ArrayOfProduct>

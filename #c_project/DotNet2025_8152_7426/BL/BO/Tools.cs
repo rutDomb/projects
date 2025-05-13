@@ -94,17 +94,4 @@ public static class Tools
         }
         return str;
     }
-
-
-    //public static String ToStringProperty<T>(this T obj)
-    //{
-    //    StringBuilder sb= new StringBuilder();
-    //    Type t = obj.GetType();
-    //    foreach (PropertyInfo prop in t.GetProperties())
-    //    {
-    //        sb.AppendLine($"{prop.Name} = {prop.GetValue(obj)}");
-    //    }
-    //    return sb.ToString();
-
-    //} 
 }
